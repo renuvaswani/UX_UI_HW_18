@@ -448,7 +448,7 @@ a{
 
 .work-image-gallery{
   margin: 0px 5%;
-  width: 100%;
+  width: 100%; 
   display: grid;
   padding-top: 50px;
   grid-template-rows: 200px 200px 200px;
@@ -461,52 +461,52 @@ a{
 }
   #img1 {
     grid-area: img1;
-    background-image: url("/images/BI_Brading.png")
+    background-image: url("images\BI_Brading.png")
   }
 
   #img2 {
     grid-area: img2;
-    background-image: url("/images/OptikClub_bag.jpg")
+    background-image: url("images\OptikClub_bag.jpg")
   }
 
   #img3 {
     grid-area: img3;
-    background-image: url("/images/Safari Kid.jpg")
+    background-image: url("images\Safari Kid.jpg")
   }
 
   #img4 {
     grid-area: img4;
-    background-image: url("/images/Branding_SynergyX1.jpg")
+    background-image: url("images\Branding_SynergyX1.jpg")
   }
 
   #img5 {
     grid-area: img5;
-    background-image: url("/images/HoneyBunny.jpg")
+    background-image: url("images\HoneyBunny.jpg")
   }
 
   #img6 {
     grid-area: img6;
-    background-image: url("/images/CM_P.jpg")
+    background-image: url("images\CM_P.jpg")
   }
 
   #img7 {
     grid-area: img7;
-    background-image: url("/images/Connective IT.jpg")
+    background-image: url("images\Connective IT.jpg")
   }
 
   #img8 {
     grid-area: img8;
-    background-image: url("/images/Abode360login.jpg")
+    background-image: url("images\Abode360login.jpg")
   }
-
+ 
   #img9 {
     grid-area: img9;
-    background-image: url("/images/VRDS_Branding.jpg")
+    background-image: url("images\VRDS_Branding.jpg")
   }
 
   #img10 {
     grid-area: img10;
-    background-image: url("/images/abode360_illustration_5.png")
+    background-image: url("images\abode360_illustration_5.png")
   }
 
 .image-box {
@@ -672,7 +672,7 @@ a{
         padding: 0px;
       }
       .skilltext{
-        display: block;
+        display: block; 
         width: auto;
       }
 
